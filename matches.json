@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "createdAt": "2019-09-22T23:18:52.104Z",
+    "percentage": "11.48",
+    "candidateId": 15,
+    "companyId": 1
+  },
+  {
+    "id": "2",
+    "createdAt": "2019-09-23T12:22:58.581Z",
+    "percentage": "77.36",
+    "candidateId": 12,
+    "companyId": 1
+  },
+  {
+    "id": "3",
+    "createdAt": "2019-09-23T13:12:25.329Z",
+    "percentage": "46.51",
+    "candidateId": 1,
+    "companyId": 1
+  },
+  {
+    "id": "4",
+    "createdAt": "2019-09-23T11:00:09.439Z",
+    "percentage": "10.39",
+    "candidateId": 2,
+    "companyId": 1
+  },
+  {
+    "id": "5",
+    "createdAt": "2019-09-23T06:40:34.794Z",
+    "percentage": "98.00",
+    "candidateId": 5,
+    "companyId": 1
+  },
+  {
+    "id": "6",
+    "createdAt": "2019-09-23T12:58:46.969Z",
+    "percentage": "71.76",
+    "candidateId": 13,
+    "companyId": 1
+  },
+  {
+    "id": "7",
+    "createdAt": "2019-09-22T17:35:50.502Z",
+    "percentage": "48.45",
+    "candidateId": 9,
+    "companyId": 1
+  }
+]
